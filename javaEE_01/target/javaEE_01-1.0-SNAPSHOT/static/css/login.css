@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    height: 100%;
+}
+body{
+    background-image: url("https://id.scuec.edu.cn/authserver/cusTheme/static/images/dzbg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#box{
+    padding: 0;
+    width: 530px;
+    height: 680px;
+    background: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 10px;
+}
+#img01{
+    margin: 33px 50px 20px 50px;
+    width: 430px;
+}
+#txt01{
+    margin: 6px 0 0 0;
+    text-align: center;
+    font-size: 23px;
+}
+input{
+    border: none;
+    outline: medium;
+}
+#in{
+    height: 210px;
+    border: 1px solid #d9d1d1;
+    margin: 24px 52px 0 52px;
+    border-radius: 4px;
+}
+.text{
+    margin: auto;
+    padding: 0;
+    width: 336px;
+    height: 56px;
+    line-height: 56px;
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+}
+.img02{
+    margin: 8px 0 8px 5px;
+    padding: 0;
+    width: 55px;
+    height: 55px;
+}
+.in02{
+    height: 71px;
+}
+#memory{
+    width: 19px;
+    height: 19px;
+    cursor: pointer;
+}
+#p_memory{
+    margin: 7px 62px 0 57px;
+    font-size: 24px;
+}
+.btn{
+    width: 187px;
+    height: 68px;
+    background-color: #1360e2;
+    color: white;
+    border-radius: 5px;
+    margin: 26px 6px 0 17px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#dbtn{
+    width: 440px;
+    margin: 25px 0px 70px 49px;
+}
+a{
+    text-decoration: none;
+    font-size: 21px;
+    color: blue;
+}
+#da{
+    font-size: 20px;
+    margin: 34px 20px 10px 111px;
+    width: 291px;
+}
+
+.yzmBox {
+    display: flex;
+}
+.yzmText {
+    width: 90px;
+    height: 2rem;
+    margin-top: 10px;
+    border-radius: 3px;
+    border: 1px solid antiquewhite;
+    padding-left: 10px;
+}
+.yzm {
+    margin-left: 225px;
+    width: 192px;
+    height: 58px;
+    margin-top: -88px;
+}
+.yzmtext01{
+    margin: auto;
+    padding: 0;
+    width: 130px;
+    height: 56px;
+    line-height: 56px;
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+}

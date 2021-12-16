@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+#webName {
+    font-size: 32px;
+    margin-left: 935px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: inline-block;
+    color: white;
+}
+
+.button_box {
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+
+.button {
+    font-size: 18px;
+    margin-top: 24px;
+    margin-right: 19px;
+    border: none;
+    color: white;
+    background: none;
+    text-align: center;
+}
