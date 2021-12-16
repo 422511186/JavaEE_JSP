@@ -25,11 +25,8 @@ public class UserServiceImpl implements UserService {
     //模拟存储用户信息数据库
     public UserServiceImpl() {
         userList = new ArrayList<User>(){{
-//            add(new User("万杨洋", "201921098099"));
-            add(new User("岳晓阳", "201921098131"));
-            add(new User("邓建", "201921098133"));
-            add(new User("王苏米娅", "201921098176"));
-            add(new User("黄振宇", "201921098210"));
+
+
         }};
     }
 

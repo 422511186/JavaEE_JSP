@@ -22,6 +22,7 @@ public class Commodity {
     public Commodity() {
     }
 
+
     public Commodity(Integer id, String name, String detail, Double price, Integer count) {
         this.id = id;
         this.name = name;
